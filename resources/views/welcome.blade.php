@@ -27,10 +27,10 @@
           <div class="carousel-item" style="background-image: url(assets/img/slide/background.jpg);">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
-                <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+                <h2 class="animate__animated animate__fadeInDown">Empowering Your Vision</h2>
+                <p class="animate__animated animate__fadeInUp">Transforming Ideas into Exceptional Websites</p>
                 <div>
-                  <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+                  <a href="#yourvision" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
                 </div>
               </div>
             </div>
@@ -84,11 +84,7 @@
                   <h4>PHP </h4>
                   <p>From Custom applications to boxed frame works <BR>CRM-CMS-LMS, Blogs, Landing-pages, E-Commerce </p>
                 </div>
-                <div class="col-md-6 icon-box">
-                  <i class="bx bx-cube-alt"></i>
-                  <h4>OOP</h4>
-                  <p>OOP is a programming paradigm that revolves around the concept of objects, which are instances of classes. A class is a blueprint for creating objects, defining their attributes (properties or fields) and behaviors (methods or functions). OOP promotes concepts such as encapsulation, inheritance, and polymorphism, enhancing code readability, reusability, and scalability.</p>
-                </div>
+                
 
                  <div class="col-md-6 icon-box">
                  <i class="fas fa-database"></i>
@@ -96,7 +92,11 @@
                   <h4>Database</h4>
                   <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
                 </div>
-              
+              <div class="col-md-6 icon-box">
+                  <i class="bx bx-cube-alt"></i>
+                  <h4>OOP</h4>
+                  <p>OOP is a programming paradigm that revolves around the concept of objects, which are instances of classes. A class is a blueprint for creating objects, defining their attributes (properties or fields) and behaviors (methods or functions). OOP promotes concepts such as encapsulation, inheritance, and polymorphism, enhancing code readability, reusability, and scalability.</p>
+                </div>
 
                 <div class="col-md-6 icon-box">
                   <i class="bx bx-receipt"></i>
@@ -189,40 +189,37 @@ Definition: CMS platforms are used for creating and managing digital content, su
       </div>
     </section><!-- End Counts Section -->
 
-    <!-- ======= Clients Section ======= -->
+    <!-- ======= My clients Section ======= -->
     <section id="clients" class="clients section-bg">
+     
       <div class="container">
-
-        <div class="row">
-
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
-          </div>
-
-          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
-          </div>
-
+         <div class="section-title">        
+          <h2 >Few Clients/Projects</h2>
+        </div>
+        <div class="row">          
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
             <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
           </div>
 
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-5.png" class="img-fluid" alt="">
+            <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
           </div>
-
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
-            <img src="assets/img/clients/client-6.png" class="img-fluid" alt="">
+            <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
           </div>
-
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
+          </div>
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/topdawg-yellow.e83d1363.svg" class="img-fluid" alt="">
+          </div>          
+          <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+            <img src="assets/img/clients/basf_we_create_chemistry_blue.png" class="img-fluid" alt="">
+          </div>
         </div>
 
       </div>
-    </section><!-- End Clients Section -->
+    </section><!-- End My Clients Section -->
 
     <!-- ======= Services Section ======= -->
     <section id="services" class="services">
@@ -574,7 +571,27 @@ Definition: CMS platforms are used for creating and managing digital content, su
     </div>
   </section>
 
+  <section id="yourvision" class="about">
+      <div class="container">
 
+        <div class="section-title">
+          <h2>Empowering Your Vision</h2>
+          <p> Transforming Ideas into Exceptional Websites <p class="animate__animated animate__fadeInUp">
+At Steven.News, we are dedicated to turning your vision into reality. With my expertise specializing in crafting stunning and functional websites that align perfectly with your goals and aspirations. Whether you're a small business looking to establish a strong online presence or a growing enterprise aiming to enhance user experience, I'm here to make your vision come to life. From sleek designs to robust functionalities, I'll work closely with you every step of the way to create a website that not only reflects your brand identity but also captivates your audience and drives success. Let me empower your vision and elevate your online presence today!
+</p></p>
+        </div>
+
+        <div class="row">
+
+<div class="col-lg-4 col-md-6">
+            <div class="box">
+
+            </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
 
 {{-- 
 
@@ -647,6 +664,7 @@ Definition: CMS platforms are used for creating and managing digital content, su
 
 --}}
 
+{{-- 
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">
       <div class="container">
@@ -708,7 +726,8 @@ Definition: CMS platforms are used for creating and managing digital content, su
 
       </div>
     </section><!-- End Frequently Asked Questions Section -->
-
+--}}
+{{--
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
       <div class="container">
@@ -773,7 +792,7 @@ Definition: CMS platforms are used for creating and managing digital content, su
 
       </div>
     </section><!-- End Contact Section -->
-
+--}}
   </main><!-- End #main -->
 </x-app-layout>
 
