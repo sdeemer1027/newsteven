@@ -57,19 +57,21 @@
   <header id="header" class="fixed-top d-flex align-items-center">
     <div class="container d-flex align-items-center justify-content-between">
 
-      <h3 class="logo"><a href="index.html"><img src="/srdlogo.png" height="50px;"><span style="color:#e97855;">S</span>teven.<span style="color:#e97855;">News</span></a></h3>
-     
+     <h3 class="logo"><a href="index.html"><img src="/srdlogo.png" height="50px;"><span style="color:#e97855;">S</span>teven.<span style="color:#e97855;">News</span></a></h3>
+  <!-- 
+     <a href="index.html" class="logo"><img src="/srdlogo.png" alt="" class="img-fluid"><span style="color:#e97855;">S</span>teven.<span style="color:#e97855;">News</span></a></a>-->
       <nav id="navbar" class="navbar">
         <ul>
           <li><a class="nav-link scrollto active" href="/">Home</a></li>
-          <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#services">Services</a></li>
-          <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
-          <li><a class="nav-link scrollto" href="#team">Team</a></li>
+          <li><a class="nav-link scrollto" href="/#about">About</a></li>
+          <li><a class="nav-link scrollto" href="/#services">Services</a></li>
+          <li><a class="nav-link scrollto " href="/#portfolio">Portfolio</a></li>
+          <li><a class="nav-link scrollto" href="/#team">Team</a></li>
           
-          <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+          <li class="dropdown"><a href="#"><span>Domains</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
+              {{--
               <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="#">Deep Drop Down 1</a></li>
@@ -79,9 +81,11 @@
                   <li><a href="#">Deep Drop Down 5</a></li>
                 </ul>
               </li>
-              <li><a href="#">Drop Down 2</a></li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
+              --}}
+
+              <li><a href="#">Evets.Pet</a></li>
+              <li><a href="#">ChildrenWish.org</a></li>
+              <li><a href="#">TheUnwanted.club</a></li>
             </ul>
           </li>
 {{--
@@ -89,7 +93,6 @@
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
           <li><a class="getstarted scrollto" href="#about">Get Started</a></li> 
 
---}} 
 
 
 
@@ -100,19 +103,14 @@
                         <li><a class="nav-link scrollto" href="{{ url('/dashboard') }}">Dashboard</a></li>
                     @else
                     <li><a class="nav-link " href="{{ route('login') }}">Log in</a></li>
-                      {{--
-                        <a href="" class="font-semibold text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500"></a>
-                       --}}
-                        @if (Route::has('register'))
+                      @if (Route::has('register'))
                         <li><a class="nav-link scrollto" href="{{ route('register') }}">Register</a></li>
-                        {{--
-                            <a href="{{ route('register') }}" class="ml-4 font-semibold text-gray-600 hover:text-gray-900 dark:text-gray-400 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500">Register</a>
-                            --}}                    
-                        @endif
+                      @endif
                     @endauth
                 
             @endif
 
+--}} 
 
 
 

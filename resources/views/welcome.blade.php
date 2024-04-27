@@ -11,20 +11,20 @@
         <div class="carousel-inner" role="listbox">
 
           <!-- Slide 1 -->
-          <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-1.jpg);">
+          <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-4.jpg);">
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown">Grow Your Business</h2>
-                <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+                <p class="animate__animated animate__fadeInUp">Empower Your Business with Strategic Growth Solutions. As a seasoned professional dedicated to catalyzing business success, I bring a wealth of experience and expertise to the table. <!-- My proven track record in developing and executing growth strategies has enabled numerous businesses to achieve remarkable expansion and profitability. With a keen eye for market trends, innovative problem-solving skills, and a results-driven approach, I specialize in identifying untapped opportunities, optimizing operational efficiency, and fostering strategic partnerships that fuel sustained growth. Let's collaborate to unlock your business's full potential and chart a course towards unparalleled success--></p>
                 <div>
-                  <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+                  <a href="#growingbusiness" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
                 </div>
               </div>
             </div>
           </div>
 
           <!-- Slide 2 -->
-          <div class="carousel-item" style="background-image: url(assets/img/slide/slide-2.jpg);">
+          <div class="carousel-item" style="background-image: url(assets/img/slide/background.jpg);">
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
@@ -37,7 +37,7 @@
           </div>
 
           <!-- Slide 3 -->
-          <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.jpg);">
+          <div class="carousel-item" style="background-image: url(assets/img/slide/slide-5.jpg);">
             <div class="carousel-container">
               <div class="carousel-content">
                 <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
@@ -74,32 +74,71 @@
           <div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
           <div class="col-xl-7 ps-0 ps-lg-5 pe-lg-1 d-flex align-items-stretch">
             <div class="content d-flex flex-column justify-content-center">
-              <h3>Voluptatem dignissimos provident quasi</h3>
+              <h3>About  Steven.news</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in reprehenderit
+                Dr.Steve has been around for more the 40 years with develop and design - Database schema to backend coding 
               </p>
               <div class="row">
                 <div class="col-md-6 icon-box">
                   <i class="bx bx-receipt"></i>
-                  <h4>Corporis voluptates sit</h4>
-                  <p>Consequuntur sunt aut quasi enim aliquam quae harum pariatur laboris nisi ut aliquip</p>
+                  <h4>PHP </h4>
+                  <p>From Custom applications to boxed frame works <BR>CRM-CMS-LMS, Blogs, Landing-pages, E-Commerce </p>
                 </div>
                 <div class="col-md-6 icon-box">
                   <i class="bx bx-cube-alt"></i>
-                  <h4>Ullamco laboris nisi</h4>
-                  <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt</p>
+                  <h4>OOP</h4>
+                  <p>OOP is a programming paradigm that revolves around the concept of objects, which are instances of classes. A class is a blueprint for creating objects, defining their attributes (properties or fields) and behaviors (methods or functions). OOP promotes concepts such as encapsulation, inheritance, and polymorphism, enhancing code readability, reusability, and scalability.</p>
+                </div>
+
+                 <div class="col-md-6 icon-box">
+                 <i class="fas fa-database"></i>
+                 
+                  <h4>Database</h4>
+                  <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                </div>
+              
+
+                <div class="col-md-6 icon-box">
+                  <i class="bx bx-receipt"></i>
+                  <h4>CRM (Customer Relationship Management)</h4>
+                  <p>CRM systems are designed to manage interactions with current and potential customers. They typically include features for managing contacts, sales pipelines, customer support, marketing campaigns, and analytics.</p>
+<!--                  <p>Salesforce, HubSpot CRM, Zoho CRM, Microsoft Dynamics 365</p> -->
                 </div>
                 <div class="col-md-6 icon-box">
+                  <i class="bx bx-receipt"></i>
+                  <h4>LMS (Learning Management System)</h4>
+                  <p>LMS platforms are used for delivering, managing, and tracking online training and educational content. They often include features for course creation, student enrollment, assessments, progress tracking, and reporting.</p>
+<!--                  <p>Moodle</p>   -->
+                 </div>
+                <div class="col-md-6 icon-box">
+                  <i class="bx bx-receipt"></i>
+                  <h4>CMS (Content Management System)</h4>
+                  <p>LCMS platforms are used for creating and managing digital content, such as websites, blogs, and online stores</p>
+<!--                  <p>Laravel, Wordpress, Drupal, Joomla</p>          -->
+                </div>
+
+                                <div class="col-md-6 icon-box">
                   <i class="bx bx-images"></i>
-                  <h4>Labore consequatur</h4>
+                  <h4>Graphics</h4>
                   <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
                 </div>
                 <div class="col-md-6 icon-box">
                   <i class="bx bx-shield"></i>
-                  <h4>Beatae veritatis</h4>
+                  <h4>Security</h4>
                   <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
                 </div>
-              </div>
+
+                </div>
+{{--
+
+LMS (Learning Management System):
+Definition: LMS platforms are used for delivering, managing, and tracking online training and educational content. They often include features for course creation, student enrollment, assessments, progress tracking, and reporting.
+Examples: Moodle, Canvas LMS, Blackboard Learn, Google Classroom.
+CMS (Content Management System):
+Definition: CMS platforms are used for creating and managing digital content, such as websites, blogs, and online stores. They provide tools for 
+--}}
+
+
             </div><!-- End .content-->
           </div>
         </div>
@@ -116,32 +155,32 @@
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
             <div class="count-box">
               <i class="bi bi-emoji-smile"></i>
-              <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Happy Clients</strong> consequuntur quae</p>
+              <span data-purecounter-start="0" data-purecounter-end="1232" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Happy Clients</strong> Good relationships always lead to happy clients</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
             <div class="count-box">
               <i class="bi bi-journal-richtext"></i>
-              <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Projects</strong> adipisci atque cum quia aut</p>
+              <span data-purecounter-start="0" data-purecounter-end="1521" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Projects</strong> Over 1500 projects </p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
             <div class="count-box">
               <i class="bi bi-headset"></i>
-              <span data-purecounter-start="0" data-purecounter-end="1463" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Hours Of Support</strong> aut commodi quaerat</p>
+              <span data-purecounter-start="0" data-purecounter-end="30320" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Hours Of Support</strong> Over 30 years can add up the hours os support dedicated to all</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch">
             <div class="count-box">
               <i class="bi bi-people"></i>
-              <span data-purecounter-start="0" data-purecounter-end="15" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Hard Workers</strong> rerum asperiores dolor</p>
+              <span data-purecounter-start="0" data-purecounter-end="150" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Hard Workers</strong> Every Person I work with dediction dictates Hard Work</p>
             </div>
           </div>
 
@@ -511,6 +550,34 @@
       </div>
     </section><!-- End Team Section -->
 
+
+
+
+
+<section id="growingbusiness" class="about">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Growing your Business</h2>
+          <p> <p class="animate__animated animate__fadeInUp">Empower Your Business with Strategic Growth Solutions. As a seasoned professional dedicated to catalyzing business success, I bring a wealth of experience and expertise to the table. My proven track record in developing and executing growth strategies has enabled numerous businesses to achieve remarkable expansion and profitability. With a keen eye for market trends, innovative problem-solving skills, and a results-driven approach, I specialize in identifying untapped opportunities, optimizing operational efficiency, and fostering strategic partnerships that fuel sustained growth. Let's collaborate to unlock your business's full potential and chart a course towards unparalleled success</p></p>
+        </div>
+
+        <div class="row">
+
+<div class="col-lg-4 col-md-6">
+            <div class="box">
+
+            </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+{{-- 
+
     <!-- ======= Pricing Section ======= -->
     <section id="pricing" class="pricing">
       <div class="container">
@@ -577,6 +644,8 @@
 
       </div>
     </section><!-- End Pricing Section -->
+
+--}}
 
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">
