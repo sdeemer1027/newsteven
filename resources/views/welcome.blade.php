@@ -200,7 +200,6 @@ Definition: CMS platforms are used for creating and managing digital content, su
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
             <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
           </div>
-
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
             <img src="assets/img/clients/client-2.png" class="img-fluid" alt="">
           </div>
@@ -227,40 +226,60 @@ Definition: CMS platforms are used for creating and managing digital content, su
 
         <div class="section-title">
           <h2>Services</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Comprehensive Website Design and Domain Solutions: Elevate your online presence with our full-suite services encompassing website design, development, and domain management. From captivating designs that reflect your brand's identity to seamless functionality that enhances user experience, we cover every aspect of creating a successful online platform. Our expert team ensures that your website is not only visually appealing but also optimized for performance, security, and search engine visibility. With our domain expertise, we handle domain registration, configuration, and maintenance, providing you with a hassle-free experience. Partner with us to unlock the full potential of your digital presence and stand out in today's competitive online landscape.</p>
         </div>
 
         <div class="row">
           <div class="col-lg-4 col-md-6 icon-box">
-            <div class="icon"><i class="bi bi-briefcase"></i></div>
-            <h4 class="title"><a href="">Lorem Ipsum</a></h4>
-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+            <div class="icon"><i class="fab fa-laravel"></i></div>
+            <h4 class="title"><a href="">Laravel</a></h4>
+            <p class="description">Leveraging the Power of Laravel for Your Domain: At Steven.News, we harness the capabilities of Laravel, a robust and versatile PHP framework, to build dynamic and scalable web applications tailored to your needs. My expertise in Laravel allows me to create efficient and secure solutions, from user authentication and data management to complex business logic and API integrations. Whether you're launching an e-commerce platform, a content management system, or a custom web application, the use of Laravel ensures reliability, performance, and future scalability. I bring your vision to life on the web, powered by Laravel's cutting-edge features and our commitment to excellence.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
-            <div class="icon"><i class="bi bi-card-checklist"></i></div>
-            <h4 class="title"><a href="">Dolor Sitema</a></h4>
-            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+            <div class="icon"><i class="fab fa-wordpress-simple"></i></div>
+            <h4 class="title"><a href="">WordPress</a></h4>
+            <p class="description">Harnessing the power of WordPress, the leading content management system (CMS), to create stunning and functional websites. My deep understanding of WordPress allows me to design and develop custom themes, plugins, and solutions that elevate your online presence. Whether you need a blog, an e-commerce store, a portfolio website, or a complex web application, WordPress offers the flexibility and scalability to meet your requirements. With my expertise, I can ensure that your WordPress website is not only visually appealing but also user-friendly, SEO optimized, and equipped with essential features for success. Partner with me to unlock the full potential of WordPress for your domain and achieve your online goals.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
-            <div class="icon"><i class="bi bi-bar-chart"></i></div>
-            <h4 class="title"><a href="">Sed ut perspiciatis</a></h4>
-            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+            <div class="icon"><i class="fab fa-drupal"></i></div>
+            <h4 class="title"><a href="">Drupal</a></h4>
+            <p class="description">In leveraging Drupal, a powerful and flexible content management framework, to create robust and feature-rich websites. My expertise in Drupal development allows us to design and implement custom solutions tailored to your specific needs. Whether you require a corporate website, an intranet portal, a community forum, or a complex web application, Drupal provides the scalability and versatility to support your goals. With my in-depth knowledge of Drupal's capabilities, I ensure that your website is not only visually appealing but also optimized for performance, security, and seamless user experience. Unlock the full potential of Drupal for your domain and achieve online success with confidence.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-binoculars"></i></div>
-            <h4 class="title"><a href="">Magni Dolores</a></h4>
-            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
+            <h4 class="title"><a href="">Searchable</a></h4>
+            <p class="description">   </p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
-            <div class="icon"><i class="bi bi-brightness-high"></i></div>
-            <h4 class="title"><a href="">Nemo Enim</a></h4>
+            <div class="icon"><i class="fas fa-digital-tachograph"></i></div>
+            <h4 class="title"><a href="">Digital</a></h4>
             <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
-            <div class="icon"><i class="bi bi-calendar4-week"></i></div>
-            <h4 class="title"><a href="">Eiusmod Tempor</a></h4>
+            <div class="icon"><i class="fas fa-sitemap"></i></div>
+            <h4 class="title"><a href="">SEO/SiteMap</a></h4>
             <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
           </div>
+
+          <div class="col-lg-4 col-md-6 icon-box">
+            <div class="icon"><i class="fab fa-vuejs"></i></div>
+            <h4 class="title"><a href="">VUE</a></h4>
+            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+          </div>
+          <div class="col-lg-4 col-md-6 icon-box">
+            <div class="icon"><i class="fab fa-js"></i></div>
+            <h4 class="title"><a href="">Javascript</a></h4>
+            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+          </div>
+           <div class="col-lg-4 col-md-6 icon-box">
+            <div class="icon"><i class="fab fa-aws"></i></div>
+            <h4 class="title"><a href="">AWS</a></h4>
+            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+          </div>
+
+
+
+
         </div>
 
       </div>
