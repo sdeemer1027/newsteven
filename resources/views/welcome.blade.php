@@ -40,10 +40,10 @@
           <div class="carousel-item" style="background-image: url(assets/img/slide/slide-5.jpg);">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown">Sequi ea ut et est quaerat</h2>
-                <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
+                <h2 class="animate__animated animate__fadeInDown">Unlock Your Potential with Our Service</h2>
+                <p class="animate__animated animate__fadeInUp">Welcome to Steven.News, where your success is my priority. My range of services is designed to empower you with the tools and solutions you need to thrive in today's digital landscape. From cutting-edge web design and development to strategic digital marketing and robust back-end solutions....</p>
                 <div>
-                  <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+                  <a href="#unlockservice" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
                 </div>
               </div>
             </div>
@@ -120,12 +120,12 @@
                                 <div class="col-md-6 icon-box">
                   <i class="bx bx-images"></i>
                   <h4>Graphics</h4>
-                  <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                  <p>Digital Graphics to digital movies, I do not stop there I spend my off hours Hand drawing and painting as my eyes for details need to be explored.</p>
                 </div>
                 <div class="col-md-6 icon-box">
                   <i class="bx bx-shield"></i>
                   <h4>Security</h4>
-                  <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+                  <p>Protecting Your Peace of Mind: At Steven.news, security is my top priority. I employ the latest encryption technologies, robust authentication mechanisms, and continuous monitoring to safeguard your data and digital assets. With my comprehensive security solutions, you can rest assured that your online presence is shielded from threats, ensuring a safe and secure environment for you and your users</p>
                 </div>
 
                 </div>
@@ -248,35 +248,36 @@ Definition: CMS platforms are used for creating and managing digital content, su
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="bi bi-binoculars"></i></div>
             <h4 class="title"><a href="">Searchable</a></h4>
-            <p class="description">   </p>
+            <p class="description">Discoverability at Your Fingertips: finding the content you need is effortless. My advanced search capabilities and intuitive navigation ensure that every piece of information, product, or service is easily searchable and accessible. Say goodbye to endless scrolling and hello to streamlined browsing, empowering you to quickly locate relevant content and make informed decisions. Experience the convenience of searchable content tailored to enhance your user journey and drive engagement</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="fas fa-digital-tachograph"></i></div>
-            <h4 class="title"><a href="">Digital</a></h4>
-            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
+            <h4 class="title"><a href="">Digital Experiences</a></h4>
+            <p class="description">Seamless Digital Experiences Across Devices: I specialize in crafting digital solutions that adapt seamlessly to various devices, from handheld smartphones to desktop computers. My responsive designs ensure optimal user experiences, regardless of screen size or device type. Whether you're browsing on-the-go or working from your desktop, my digital services offer a consistent and user-friendly interface, maximizing accessibility and engagement. Embrace the versatility of digital technology with layouts that scale effortlessly, empowering you to connect with your audience wherever they are</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="fas fa-sitemap"></i></div>
             <h4 class="title"><a href="">SEO/SiteMap</a></h4>
-            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+            <p class="description">Boost Your Online Visibility with SEO and Sitemap Integration: With the understanding of the importance of a strong online presence. My SEO strategies and sitemap integration are tailored to enhance your website's visibility, improve search engine rankings, and drive organic traffic. By optimizing your content, metadata, and site structure, I ensure that your website is easily discoverable by search engines and users alike. With a comprehensive sitemap that guides search engine crawlers through your website, I empower you to reach your target audience effectively and achieve long-term success in the digital landscape.</p>
           </div>
 
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="fab fa-vuejs"></i></div>
             <h4 class="title"><a href="">VUE</a></h4>
-            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+            <p class="description">Vue.js: Powering Dynamic and Interactive Web Experiences. Harness the simplicity and flexibility of Vue.js to create modern, reactive web applications. With its intuitive syntax and seamless integration, Vue.js empowers developers to build dynamic user interfaces, real-time updates, and interactive components with ease. Elevate your web development journey with Vue.js and unlock endless possibilities for engaging user experiences.</p>
           </div>
           <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="fab fa-js"></i></div>
             <h4 class="title"><a href="">Javascript</a></h4>
-            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+            <p class="description">JavaScript: The Language of Web Interactivity. As the cornerstone of web development, JavaScript empowers dynamic and interactive web experiences. From user interface enhancements to complex functionalities, JavaScript fuels the modern web, making it a versatile and essential tool for developers worldwide.</p>
           </div>
+          {{-- 
            <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="fab fa-aws"></i></div>
             <h4 class="title"><a href="">AWS</a></h4>
-            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+            <p class="description">AWS: Empowering Scalable Cloud Solutions. Amazon Web Services (AWS) provides a comprehensive suite of cloud services, offering scalability, reliability, and flexibility for businesses of all sizes. From storage and computing to machine learning and IoT, AWS enables organizations to innovate and scale their digital infrastructure with ease, driving efficiency and growth in today's dynamic business landscape</p>
           </div>
-
+--}}
 
 
 
@@ -290,8 +291,8 @@ Definition: CMS platforms are used for creating and managing digital content, su
       <div class="container">
 
         <div class="section-title">
-          <h2>Why Us</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>Why Me</h2>
+          <p>I will handle everything from designing layouts and setting up databases to managing Git repositories and finding affordable hosting solutions. My goal is to provide you with cost-effective options that meet your budget and execute them according to a well-defined plan.</p>
         </div>
 
         <div class="row">
@@ -299,16 +300,16 @@ Definition: CMS platforms are used for creating and managing digital content, su
           <div class="col-lg-4">
             <div class="box">
               <span>01</span>
-              <h4>Lorem Ipsum</h4>
-              <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
+              <h4>Hosting</h4>
+              <p>Finding you thhe best hosting of your site is important you have an idea but the Web-Server has to be hosted. I can Host your Domain or find you an over all best solutionn that meets you requirements and needs from space to power on it is about Your budget and needs.<br></p>
             </div>
           </div>
 
           <div class="col-lg-4 mt-4 mt-lg-0">
             <div class="box">
               <span>02</span>
-              <h4>Repellat Nihil</h4>
-              <p>Dolorem est fugiat occaecati voluptate velit esse. Dicta veritatis dolor quod et vel dire leno para dest</p>
+              <h4>Repository</h4>
+              <p>GitHub offers a great free solution to your files. This is an important step as you can ensure it is private or public and you can always give access to any developer of any area to the files and or branches of need therefore protecting your data - privacy - and not compromise your current site without the correct testing nnd visualization</p>
             </div>
           </div>
 
@@ -330,11 +331,13 @@ Definition: CMS platforms are used for creating and managing digital content, su
       <div class="container">
 
         <div class="section-title">
-          <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <h2>My Portfolio</h2>
+          <p>My Portfolio is coming soon it will range from websites to digital graphics, drawings, paintings, chalk and more</p>
         </div>
 
+{{--
         <div class="row">
+
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
@@ -474,6 +477,7 @@ Definition: CMS platforms are used for creating and managing digital content, su
           </div>
 
         </div>
+        --}}
 
       </div>
     </section><!-- End Portfolio Section -->
@@ -611,6 +615,36 @@ At Steven.News, we are dedicated to turning your vision into reality. With my ex
       </div>
     </div>
   </section>
+
+
+  <section id="unlockservice" class="about">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Unlock Your Potential with Our Service</h2>
+          <p> <p class="animate__animated animate__fadeInUp">
+At Steven.News, your success is my priority. My range of services is designed to empower you with the tools and solutions you need to thrive in today's digital landscape. From cutting-edge web design and development to strategic digital marketing and robust back-end solutions, we offer comprehensive services tailored to your unique needs. Whether you're launching a new venture, expanding your online presence, or optimizing existing processes, our expertise and dedication ensure that you achieve your goals effectively and efficiently. Let's unlock your full potential together and take your business to new heights.
+</p></p>
+        </div>
+
+        <div class="row">
+
+<div class="col-lg-4 col-md-6">
+            <div class="box">
+
+            </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
+
+
+
+
 
 {{-- 
 

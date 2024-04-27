@@ -67,11 +67,11 @@
           <li><a class="nav-link scrollto" href="/#services">Services</a></li>
           <li><a class="nav-link scrollto " href="/#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="/#team">Team</a></li>
-          
+  {{--         
           <li class="dropdown"><a href="#"><span>Domains</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
-              {{--
+             
               <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="#">Deep Drop Down 1</a></li>
@@ -81,13 +81,14 @@
                   <li><a href="#">Deep Drop Down 5</a></li>
                 </ul>
               </li>
-              --}}
+              
 
               <li><a href="#">Evets.Pet</a></li>
               <li><a href="#">ChildrenWish.org</a></li>
               <li><a href="#">TheUnwanted.club</a></li>
             </ul>
           </li>
+          --}}
 {{--
         
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
@@ -164,7 +165,7 @@
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="/">Home</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#about">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="/#services">Services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
             </ul>
