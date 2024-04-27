@@ -316,8 +316,10 @@ Definition: CMS platforms are used for creating and managing digital content, su
           <div class="col-lg-4 mt-4 mt-lg-0">
             <div class="box">
               <span>03</span>
+              {{-- 
               <h4> Ad ad velit qui</h4>
               <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
+              --}}
             </div>
           </div>
 
