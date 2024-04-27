@@ -152,10 +152,10 @@
               </p>
               <div class="social-links mt-3">
                 <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="https://www.facebook.com/drsteve2020/" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="https://www.instagram.com/sd1964.with/" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="https://www.facebook.com/drsteve2020/" class="facebook"  target="_new"><i class="bx bxl-facebook"></i></a>
+                <a href="https://www.instagram.com/sd1964.with/" class="instagram"  target="_new"><i class="bx bxl-instagram"></i></a>
                 <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="https://www.linkedin.com/in/steven-deemer/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                <a href="https://www.linkedin.com/in/steven-deemer/" class="linkedin" target="_new"><i class="bx bxl-linkedin"></i></a>
               </div>
             </div>
           </div>
