@@ -503,10 +503,10 @@ Definition: CMS platforms are used for creating and managing digital content, su
                   <h4>Dr.Steve</h4>
                   <span>Chief Executive Officer</span>
                   <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
+              <!--      <a href=""><i class="bi bi-twitter"></i></a> -->
+                    <a href="https://www.facebook.com/drsteve2020/"><i class="bi bi-facebook"></i></a>
+                    <a href="https://www.instagram.com/sd1964.with/"><i class="bi bi-instagram"></i></a>
+                    <a href="https://www.linkedin.com/in/steven-deemer/"><i class="bi bi-linkedin"></i></a>
                   </div>
                 </div>
               </div>
