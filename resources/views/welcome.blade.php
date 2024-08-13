@@ -1,6 +1,5 @@
 <x-app-layout>
 
-
   <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div class="hero-container">
@@ -14,7 +13,7 @@
           <div class="carousel-item active" style="background-image: url(assets/img/slide/slide-4.jpg);">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown">Grow Your Business</h2>
+                <h2 class="animate__animated animate__fadeInDown">Grow YourBusiness </h2>
                 <p class="animate__animated animate__fadeInUp">Empower Your Business with Strategic Growth Solutions. As a seasoned professional dedicated to catalyzing business success, I bring a wealth of experience and expertise to the table. <!-- My proven track record in developing and executing growth strategies has enabled numerous businesses to achieve remarkable expansion and profitability. With a keen eye for market trends, innovative problem-solving skills, and a results-driven approach, I specialize in identifying untapped opportunities, optimizing operational efficiency, and fostering strategic partnerships that fuel sustained growth. Let's collaborate to unlock your business's full potential and chart a course towards unparalleled success--></p>
                 <div>
                   <a href="#growingbusiness" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
@@ -40,8 +39,8 @@
           <div class="carousel-item" style="background-image: url(assets/img/slide/slide-5.jpg);">
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2 class="animate__animated animate__fadeInDown">Unlock Your Potential with Our Service</h2>
-                <p class="animate__animated animate__fadeInUp">Welcome to Steven.News, where your success is my priority. My range of services is designed to empower you with the tools and solutions you need to thrive in today's digital landscape. From cutting-edge web design and development to strategic digital marketing and robust back-end solutions....</p>
+                <h2 class="animate__animated animate__fadeInDown">Unlock Your Potential with Steven.News</h2>
+                <p class="animate__animated animate__fadeInUp">Steven.News, where your success is my priority. My range of services is designed to empower you with the tools and solutions you need to thrive in today's digital landscape. From cutting-edge web design and development to strategic digital marketing and robust back-end solutions....</p>
                 <div>
                   <a href="#unlockservice" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
                 </div>
@@ -76,21 +75,21 @@
             <div class="content d-flex flex-column justify-content-center">
               <h3>About  Steven.news</h3>
               <p>
-                Dr.Steve has been around for more the 40 years with develop and design - Database schema to backend coding 
+                Dr.Steve has been around for more the 40 years with develop and design - Database schema to backend coding
               </p>
               <div class="row">
                 <div class="col-md-6 icon-box">
                   <i class="bx bx-receipt"></i>
                   <h4>PHP </h4>
-                  <p>From Custom applications to boxed frame works <BR>CRM-CMS-LMS, Blogs, Landing-pages, E-Commerce </p>
+                  <p>From Custom applications to Frameworks <BR>CRM-CMS-LMS, Blogs, Landing-pages, E-Commerce </p>
                 </div>
-                
+
 
                  <div class="col-md-6 icon-box">
                  <i class="fas fa-database"></i>
-                 
+
                   <h4>Database</h4>
-                  <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                  <p>with 40 years of Database I have seen a few From Oracle, MySql, MariaDB, SQL, PostSql, MongoDB, NoSql<BR> from design of the schema to maintaining  </p>
                 </div>
               <div class="col-md-6 icon-box">
                   <i class="bx bx-cube-alt"></i>
@@ -135,7 +134,7 @@ LMS (Learning Management System):
 Definition: LMS platforms are used for delivering, managing, and tracking online training and educational content. They often include features for course creation, student enrollment, assessments, progress tracking, and reporting.
 Examples: Moodle, Canvas LMS, Blackboard Learn, Google Classroom.
 CMS (Content Management System):
-Definition: CMS platforms are used for creating and managing digital content, such as websites, blogs, and online stores. They provide tools for 
+Definition: CMS platforms are used for creating and managing digital content, such as websites, blogs, and online stores. They provide tools for
 --}}
 
 
@@ -147,6 +146,7 @@ Definition: CMS platforms are used for creating and managing digital content, su
     </section><!-- End About Section -->
 
     <!-- ======= Counts Section ======= -->
+      {{--
     <section id="counts" class="counts">
       <div class="container">
 
@@ -188,15 +188,15 @@ Definition: CMS platforms are used for creating and managing digital content, su
 
       </div>
     </section><!-- End Counts Section -->
-
+--}}
     <!-- ======= My clients Section ======= -->
     <section id="clients" class="clients section-bg">
-     
+
       <div class="container">
-         <div class="section-title">        
+         <div class="section-title">
           <h2 >Few Clients/Projects</h2>
         </div>
-        <div class="row">          
+        <div class="row">
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
             <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
           </div>
@@ -211,7 +211,7 @@ Definition: CMS platforms are used for creating and managing digital content, su
           </div>
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
             <img src="assets/img/clients/topdawg-yellow.e83d1363.svg" class="img-fluid" alt="">
-          </div>          
+          </div>
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
             <img src="assets/img/clients/basf_we_create_chemistry_blue.png" class="img-fluid" alt="">
           </div>
@@ -271,7 +271,7 @@ Definition: CMS platforms are used for creating and managing digital content, su
             <h4 class="title"><a href="">Javascript</a></h4>
             <p class="description">JavaScript: The Language of Web Interactivity. As the cornerstone of web development, JavaScript empowers dynamic and interactive web experiences. From user interface enhancements to complex functionalities, JavaScript fuels the modern web, making it a versatile and essential tool for developers worldwide.</p>
           </div>
-          {{-- 
+          {{--
            <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="fab fa-aws"></i></div>
             <h4 class="title"><a href="">AWS</a></h4>
@@ -301,7 +301,7 @@ Definition: CMS platforms are used for creating and managing digital content, su
             <div class="box">
               <span>01</span>
               <h4>Hosting</h4>
-              <p>Finding you thhe best hosting of your site is important you have an idea but the Web-Server has to be hosted. I can Host your Domain or find you an over all best solutionn that meets you requirements and needs from space to power on it is about Your budget and needs.<br></p>
+              <p>Finding you the best hosting of your site is important, you have an idea but the Web-Server has to be hosted. I can Host your Domain or find you an over all best solutionn that meets you requirements and needs from space to power on it is about Your budget and needs.<br></p>
             </div>
           </div>
 
@@ -316,10 +316,10 @@ Definition: CMS platforms are used for creating and managing digital content, su
           <div class="col-lg-4 mt-4 mt-lg-0">
             <div class="box">
               <span>03</span>
-              {{-- 
-              <h4> Ad ad velit qui</h4>
-              <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
-              --}}
+                <h4>DataBase</h4>
+                <p>
+
+                </p>
             </div>
           </div>
 
@@ -329,6 +329,7 @@ Definition: CMS platforms are used for creating and managing digital content, su
     </section><!-- End Why Us Section -->
 
     <!-- ======= Portfolio Section ======= -->
+      {{--
     <section id="portfolio" class="portfolio">
       <div class="container">
 
@@ -336,6 +337,7 @@ Definition: CMS platforms are used for creating and managing digital content, su
           <h2>My Portfolio</h2>
           <p>My Portfolio is coming soon it will range from websites to digital graphics, drawings, paintings, chalk and more</p>
         </div>
+--}}
 
 {{--
         <div class="row">
@@ -481,9 +483,11 @@ Definition: CMS platforms are used for creating and managing digital content, su
         </div>
         --}}
 
+
+          {{--
       </div>
     </section><!-- End Portfolio Section -->
-
+--}}
     <!-- ======= Team Section ======= -->
     <section id="team" class="team">
       <div class="container">
@@ -648,7 +652,7 @@ At Steven.News, your success is my priority. My range of services is designed to
 
 
 
-{{-- 
+{{--
 
     <!-- ======= Pricing Section ======= -->
     <section id="pricing" class="pricing">
@@ -719,7 +723,7 @@ At Steven.News, your success is my priority. My range of services is designed to
 
 --}}
 
-{{-- 
+{{--
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">
       <div class="container">
