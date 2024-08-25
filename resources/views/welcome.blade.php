@@ -554,10 +554,9 @@ Definition: CMS platforms are used for creating and managing digital content, su
                   <h4>Steve</h4>
                   <span>Project Manager</span>
                   <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
+
+                    <a href="https://www.facebook.com/drsteve2020/"><i class="bi bi-facebook"></i></a>
+
                   </div>
                 </div>
               </div>
@@ -572,10 +571,7 @@ Definition: CMS platforms are used for creating and managing digital content, su
                   <h4>Steven</h4>
                   <span>Sr.Full Stack Developer</span>
                   <div class="social">
-                    <a href=""><i class="bi bi-twitter"></i></a>
-                    <a href=""><i class="bi bi-facebook"></i></a>
-                    <a href=""><i class="bi bi-instagram"></i></a>
-                    <a href=""><i class="bi bi-linkedin"></i></a>
+                    <a href="https://www.facebook.com/Byte.Me.Page/"><i class="bi bi-facebook"></i></a>
                   </div>
                 </div>
               </div>
