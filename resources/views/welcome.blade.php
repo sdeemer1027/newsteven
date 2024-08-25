@@ -76,7 +76,7 @@
             <div class="content d-flex flex-column justify-content-center">
               <h3>About  Steven.news</h3>
               <p>
-                Dr.Steve has been around for more the 40 years with develop and design - Database schema to backend coding 
+                Dr.Steve has been around his working Career for more the 40 years with develop and design - Database schema to backend coding
               </p>
               <div class="row">
                 <div class="col-md-6 icon-box">
@@ -84,13 +84,13 @@
                   <h4>PHP </h4>
                   <p>From Custom applications to boxed frame works <BR>CRM-CMS-LMS, Blogs, Landing-pages, E-Commerce </p>
                 </div>
-                
+
 
                  <div class="col-md-6 icon-box">
                  <i class="fas fa-database"></i>
-                 
+
                   <h4>Database</h4>
-                  <p>Aut suscipit aut cum nemo deleniti aut omnis. Doloribus ut maiores omnis facere</p>
+                  <p>MySQL - MariaDB - NoSql - MongoDB - SQL - Oracle<BR><BR>Let's normalize your data and secure it correctly</p>
                 </div>
               <div class="col-md-6 icon-box">
                   <i class="bx bx-cube-alt"></i>
@@ -135,7 +135,7 @@ LMS (Learning Management System):
 Definition: LMS platforms are used for delivering, managing, and tracking online training and educational content. They often include features for course creation, student enrollment, assessments, progress tracking, and reporting.
 Examples: Moodle, Canvas LMS, Blackboard Learn, Google Classroom.
 CMS (Content Management System):
-Definition: CMS platforms are used for creating and managing digital content, such as websites, blogs, and online stores. They provide tools for 
+Definition: CMS platforms are used for creating and managing digital content, such as websites, blogs, and online stores. They provide tools for
 --}}
 
 
@@ -191,12 +191,12 @@ Definition: CMS platforms are used for creating and managing digital content, su
 
     <!-- ======= My clients Section ======= -->
     <section id="clients" class="clients section-bg">
-     
+
       <div class="container">
-         <div class="section-title">        
+         <div class="section-title">
           <h2 >Few Clients/Projects</h2>
         </div>
-        <div class="row">          
+        <div class="row">
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
             <img src="assets/img/clients/client-4.png" class="img-fluid" alt="">
           </div>
@@ -211,11 +211,34 @@ Definition: CMS platforms are used for creating and managing digital content, su
           </div>
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
             <img src="assets/img/clients/topdawg-yellow.e83d1363.svg" class="img-fluid" alt="">
-          </div>          
+          </div>
           <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
             <img src="assets/img/clients/basf_we_create_chemistry_blue.png" class="img-fluid" alt="">
           </div>
         </div>
+
+          <div class="row">
+              <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                  <img src="assets/img/clients/blk.png" class="img-fluid" alt="">
+              </div>
+              <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                  <img src="assets/img/clients/ynot.png" class="img-fluid" alt="">
+              </div>
+              {{--
+              <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                  <img src="assets/img/clients/client-1.png" class="img-fluid" alt="">
+              </div>
+              <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                  <img src="assets/img/clients/client-3.png" class="img-fluid" alt="">
+              </div>
+              <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                  <img src="assets/img/clients/topdawg-yellow.e83d1363.svg" class="img-fluid" alt="">
+              </div>
+              <div class="col-lg-2 col-md-4 col-6 d-flex align-items-center justify-content-center">
+                  <img src="assets/img/clients/basf_we_create_chemistry_blue.png" class="img-fluid" alt="">
+              </div>
+              --}}
+          </div>
 
       </div>
     </section><!-- End My Clients Section -->
@@ -271,7 +294,7 @@ Definition: CMS platforms are used for creating and managing digital content, su
             <h4 class="title"><a href="">Javascript</a></h4>
             <p class="description">JavaScript: The Language of Web Interactivity. As the cornerstone of web development, JavaScript empowers dynamic and interactive web experiences. From user interface enhancements to complex functionalities, JavaScript fuels the modern web, making it a versatile and essential tool for developers worldwide.</p>
           </div>
-          {{-- 
+          {{--
            <div class="col-lg-4 col-md-6 icon-box">
             <div class="icon"><i class="fab fa-aws"></i></div>
             <h4 class="title"><a href="">AWS</a></h4>
@@ -316,7 +339,7 @@ Definition: CMS platforms are used for creating and managing digital content, su
           <div class="col-lg-4 mt-4 mt-lg-0">
             <div class="box">
               <span>03</span>
-              {{-- 
+              {{--
               <h4> Ad ad velit qui</h4>
               <p>Molestiae officiis omnis illo asperiores. Aut doloribus vitae sunt debitis quo vel nam quis</p>
               --}}
@@ -490,7 +513,7 @@ Definition: CMS platforms are used for creating and managing digital content, su
 
         <div class="section-title">
           <h2>Team</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>The many faces of the same guy. from the CEO - CTO - Project Manager to the off time Reverend - Artist - Cook - And Much more</p>
         </div>
 
         <div class="row">
@@ -566,6 +589,116 @@ Definition: CMS platforms are used for creating and managing digital content, su
               </div>
             </div>
           </div>
+
+
+            <div class="col-xl-3 col-lg-4 col-md-6" data-wow-delay="0.3s">
+                <div class="member">
+                    <img src="assets/img/team/physicalart.jpg" class="img-fluid" alt="">
+                    <div class="member-info">
+                        <div class="member-info-content">
+                            <h4>The Artist</h4>
+                            <span>Artist</span>
+                            <div class="social">
+                                <a href=""><i class="bi bi-twitter"></i></a>
+                                <a href=""><i class="bi bi-facebook"></i></a>
+                                <a href=""><i class="bi bi-instagram"></i></a>
+                                <a href=""><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6" data-wow-delay="0.3s">
+                <div class="member">
+                    <img src="assets/img/team/team-5.jpg" class="img-fluid" alt="">
+                    <div class="member-info">
+                        <div class="member-info-content">
+                            <h4>The Thinker</h4>
+                            <span>Deep - the Reverend will do Weddings and Funerals </span>
+                            <div class="social">
+                                <a href=""><i class="bi bi-twitter"></i></a>
+                                <a href=""><i class="bi bi-facebook"></i></a>
+                                <a href=""><i class="bi bi-instagram"></i></a>
+                                <a href=""><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-xl-3 col-lg-4 col-md-6" data-wow-delay="0.3s">
+                <div class="member">
+                    <img src="assets/img/team/biker2.jpg" class="img-fluid" alt="">
+                    <div class="member-info">
+                        <div class="member-info-content">
+                            <h4>The Biker</h4>
+                            <span>Dive into The Ride </span>
+                            <div class="social">
+                                <a href=""><i class="bi bi-twitter"></i></a>
+                                <a href=""><i class="bi bi-facebook"></i></a>
+                                <a href=""><i class="bi bi-instagram"></i></a>
+                                <a href=""><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-3 col-lg-4 col-md-6" data-wow-delay="0.3s">
+                <div class="member">
+                    <img src="assets/img/team/cook.jpg" class="img-fluid" alt="">
+                    <div class="member-info">
+                        <div class="member-info-content">
+                            <h4>The Cook</h4>
+                            <span>Ready to prepare Flavor</span>
+                            <div class="social">
+                                <a href=""><i class="bi bi-twitter"></i></a>
+                                <a href=""><i class="bi bi-facebook"></i></a>
+                                <a href=""><i class="bi bi-instagram"></i></a>
+                                <a href=""><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-md-6" data-wow-delay="0.3s">
+                <div class="member">
+                    <img src="assets/img/team/lover.jpg" class="img-fluid" alt="">
+                    <div class="member-info">
+                        <div class="member-info-content">
+                            <h4>The Lover</h4>
+                            <span>the love for all</span>
+                            <div class="social">
+                                <a href=""><i class="bi bi-twitter"></i></a>
+                                <a href=""><i class="bi bi-facebook"></i></a>
+                                <a href=""><i class="bi bi-instagram"></i></a>
+                                <a href=""><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="col-xl-3 col-lg-4 col-md-6" data-wow-delay="0.3s">
+                <div class="member">
+                    <img src="assets/img/team/biker.jpg" class="img-fluid" alt="">
+                    <div class="member-info">
+                        <div class="member-info-content">
+                            <h4>The Musical Talent</h4>
+                            <span>Musical talent from the Keyboard to Violin/Fiddle and many more instruments </span>
+                            <div class="social">
+                                <a href=""><i class="bi bi-twitter"></i></a>
+                                <a href=""><i class="bi bi-facebook"></i></a>
+                                <a href=""><i class="bi bi-instagram"></i></a>
+                                <a href=""><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
 
         </div>
 
@@ -648,7 +781,7 @@ At Steven.News, your success is my priority. My range of services is designed to
 
 
 
-{{-- 
+{{--
 
     <!-- ======= Pricing Section ======= -->
     <section id="pricing" class="pricing">
@@ -719,7 +852,7 @@ At Steven.News, your success is my priority. My range of services is designed to
 
 --}}
 
-{{-- 
+{{--
     <!-- ======= Frequently Asked Questions Section ======= -->
     <section id="faq" class="faq section-bg">
       <div class="container">

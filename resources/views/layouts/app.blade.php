@@ -94,6 +94,7 @@
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
           <li><a class="getstarted scrollto" href="#about">Get Started</a></li> 
 
+--}} 
 
 
 
@@ -101,7 +102,12 @@
             @if (Route::has('login'))
                
                     @auth
-                        <li><a class="nav-link scrollto" href="{{ url('/dashboard') }}">Dashboard</a></li>
+                        <li class="dropdown"><a class="nav-link scrollto" href="{{ url('/dashboard') }}"> {{ Auth::user()->name }}</a>
+             <ul>
+              <li><a href="{{ url('/dashboard') }}">Dashboard</a></li>
+             </ul>
+
+                        </li>
                     @else
                     <li><a class="nav-link " href="{{ route('login') }}">Log in</a></li>
                       @if (Route::has('register'))
@@ -111,7 +117,6 @@
                 
             @endif
 
---}} 
 
 
 
