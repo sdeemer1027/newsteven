@@ -58,7 +58,7 @@
     <div class="container d-flex align-items-center justify-content-between">
 
      <h3 class="logo"><a href="/"><img src="/srdlogo.png" height="50px;"><span style="color:#e97855;">S</span>teven.<span style="color:#e97855;">News</span></a></h3>
-  <!-- 
+  <!--
      <a href="index.html" class="logo"><img src="/srdlogo.png" alt="" class="img-fluid"><span style="color:#e97855;">S</span>teven.<span style="color:#e97855;">News</span></a></a>-->
       <nav id="navbar" class="navbar">
         <ul>
@@ -67,11 +67,12 @@
           <li><a class="nav-link scrollto" href="/#services">Services</a></li>
           <li><a class="nav-link scrollto " href="/#portfolio">Portfolio</a></li>
           <li><a class="nav-link scrollto" href="/#team">Team</a></li>
-  {{--         
+            <li><a class="nav-link scrollto" href="/Steve Deemer-2024.pdf">Resume</a></li>
+  {{--
           <li class="dropdown"><a href="#"><span>Domains</span> <i class="bi bi-chevron-down"></i></a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
-             
+
               <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
                 <ul>
                   <li><a href="#">Deep Drop Down 1</a></li>
@@ -81,7 +82,7 @@
                   <li><a href="#">Deep Drop Down 5</a></li>
                 </ul>
               </li>
-              
+
 
               <li><a href="#">Evets.Pet</a></li>
               <li><a href="#">ChildrenWish.org</a></li>
@@ -90,9 +91,9 @@
           </li>
           --}}
 {{--
-        
+
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
-          <li><a class="getstarted scrollto" href="#about">Get Started</a></li> 
+          <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
 
 --}} 
 
@@ -100,7 +101,7 @@
 
 
             @if (Route::has('login'))
-               
+
                     @auth
                         <li class="dropdown"><a class="nav-link scrollto" href="{{ url('/dashboard') }}"> {{ Auth::user()->name }}</a>
              <ul>
@@ -114,9 +115,13 @@
                         <li><a class="nav-link scrollto" href="{{ route('register') }}">Register</a></li>
                       @endif
                     @endauth
-                
+
             @endif
 
+<<<<<<< HEAD
+=======
+--}}
+>>>>>>> 863126f0a88f0780c696fa3742f7acc89c07b28d
 
 
 
@@ -128,7 +133,7 @@
     </div>
   </header><!-- End Header bg-gray-100 dark:bg-gray-900-->
 
-        <div class="min-h-screen ">    
+        <div class="min-h-screen ">
 
             <!-- Page Content -->
             <main>
