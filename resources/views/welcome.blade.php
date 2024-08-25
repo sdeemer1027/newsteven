@@ -346,7 +346,7 @@ Definition: CMS platforms are used for creating and managing digital content, su
 
                 <h4>DataBase</h4>
                 <p>
-
+From DataStorage to Relational Data Structure " Select Me From your_selection; " <BR>
                 </p>
 
             </div>
