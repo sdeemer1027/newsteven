@@ -95,7 +95,7 @@
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
           <li><a class="getstarted scrollto" href="#about">Get Started</a></li>
 
---}} 
+--}}
 
 
 
@@ -118,10 +118,6 @@
 
             @endif
 
-<<<<<<< HEAD
-=======
---}}
->>>>>>> 863126f0a88f0780c696fa3742f7acc89c07b28d
 
 
 
