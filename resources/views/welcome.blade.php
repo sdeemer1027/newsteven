@@ -320,6 +320,43 @@ Definition: CMS platforms are used for creating and managing digital content, su
         <div class="section-title">
           <h2>Why Me</h2>
           <p>I will handle everything from designing layouts and setting up databases to managing Git repositories and finding affordable hosting solutions. My goal is to provide you with cost-effective options that meet your budget and execute them according to a well-defined plan.</p>
+       
+
+
+
+<h2>To My Lovely Wife</h2>
+<pre>
+In you, I found my heart’s true home,
+A love so deep, forever grown.
+Through every joy, through every tear,
+You've been my light, my constant cheer.
+
+Your smile, a sun that warms my soul,
+Together, we've made one heart whole.
+Each day with you, a precious gift,
+In your embrace, my spirits lift.
+
+We've danced through life, both hand in hand,
+Building dreams and making plans.
+No storm too fierce, no night too long,
+With you, my love, I feel so strong.
+
+On this day, we celebrate,
+A love that time cannot abate.
+Here's to forever, you and I,
+Under love’s unchanging sky.
+
+Happy anniversary, my dear,
+With you, there's nothing left to fear.
+My heart is yours, now and for life,
+Forever yours, my lovely wife.
+</pre>
+
+
+
+
+
+
         </div>
 
         <div class="row">
@@ -605,10 +642,9 @@ From DataStorage to Relational Data Structure <BR><BR>" Select Me From your_sele
                             <h4>The Artist</h4>
                             <span>Artist</span>
                             <div class="social">
-                                <a href=""><i class="bi bi-twitter"></i></a>
-                                <a href=""><i class="bi bi-facebook"></i></a>
-                                <a href=""><i class="bi bi-instagram"></i></a>
-                                <a href=""><i class="bi bi-linkedin"></i></a>
+                           <!--
+                                <a href="/artissteve">View Some Art</a>
+                              -->
                             </div>
                         </div>
                     </div>
@@ -782,7 +818,17 @@ At Steven.News, your success is my priority. My range of services is designed to
 
 
 
+<section>
+    <div class="container">
 
+    <iframe src="http://dashboard.blk.cash/login"
+            width="360"
+            height="640"
+            style="border: none;">
+    </iframe>
+    </div>
+
+</section>
 
 
 
