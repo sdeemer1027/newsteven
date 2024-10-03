@@ -1,18 +1,18 @@
 <x-app-layout>
     <x-slot name="header">
-        <h2 class="font-semibold text-xl text-gray-800 dark:text-gray-200 leading-tight"></h2>
+        <h2 class="font-semibold text-xl text-gray-800 dark:text-gray-200 leading-tight">
+            Scan Barcode
+        </h2>
     </x-slot>
 
-    <br>
     <div class="py-12">
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-black dark:text-gray-100">
-                    <h1>Scan Barcode</h1>
-                    <form method="POST" action="{{ route('processBarcode') }}">
+                    <form method="POST" action="{{ route('processBarcode') }}" id="barcodeForm">
                         @csrf
                         <label for="barcode">Scanned Barcode:</label>
-                        <input type="text" id="barcode" name="barcode">
+                        <input type="text" id="barcode" name="barcode" required>
                         <button type="submit">Submit</button>
                     </form>
 
@@ -31,8 +31,7 @@
                                     }
                                 },
                                 decoder: {
-                                        readers: ["code_128_reader", "ean_reader", "upc_reader", "qr_reader"] 
-                                   // readers: ["code_128_reader"] // Adjust this to match your barcode type
+                                    readers: ["code_128_reader", "ean_reader", "upc_reader"] // Add other readers as needed
                                 }
                             }, function (err) {
                                 if (err) {
@@ -45,9 +44,11 @@
                             });
 
                             Quagga.onDetected(function (data) {
-                                console.log('Barcode detected:', data); // Log the detected data
                                 const barcode = data.codeResult.code;
                                 document.querySelector('#barcode').value = barcode;
+
+                                // Automatically submit the form after scanning
+                                document.getElementById('barcodeForm').submit();
                             });
                         } else {
                             alert('Camera is not supported on this device or browser.');
