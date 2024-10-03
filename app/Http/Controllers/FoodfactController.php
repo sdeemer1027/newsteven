@@ -66,6 +66,9 @@ $product = collect($response); // Convert the product data to a collection
     // Process the scanned barcode
     public function processBarcode(Request $request)
     {
+        
+dd($request);
+
         // Validate the barcode input
         $request->validate([
             'barcode' => 'required|string',

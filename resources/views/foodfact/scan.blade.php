@@ -24,7 +24,7 @@
 
 <h1>Scan Barcode</h1>
 
-<div id="barcodeScanner" style="width: 100%; height: 300px;"></div>
+
 
 <form method="POST" action="{{ route('processBarcode') }}">
     @csrf
@@ -32,6 +32,9 @@
     <input type="text" id="barcode" name="barcode" readonly>
     <button type="submit">Submit</button>
 </form>
+
+<div id="barcodeScanner" style="width: 100%; height: 300px;"></div>
+
 
 <script type="text/javascript">
     if (navigator.mediaDevices && navigator.mediaDevices.getUserMedia) {
