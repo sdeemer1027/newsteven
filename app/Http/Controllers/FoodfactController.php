@@ -67,21 +67,36 @@ $product = collect($response); // Convert the product data to a collection
     public function processBarcode(Request $request)
     {
         
-dd($request);
+//dd($request);
 
         // Validate the barcode input
         $request->validate([
             'barcode' => 'required|string',
         ]);
+  // Initialize variables
+    $error = null;
+    $product = null;
 
         // Get the scanned barcode value
         $barcode = $request->input('barcode');
 
         // Find the corresponding product in the database using the barcode
-        $product = Product::where('barcode', $barcode)->first();
+ //       $product = Product::where('barcode', $barcode)->first();
+
+$response = OpenFoodFacts::barcode($barcode); // Replace with actual barcode
+
+//dd($response);
+
+
+$product = collect($response); // Convert the product data to a collection
 
         if ($product) {
-            return view('product-details', compact('product'));
+   //         return view('product-details', compact('product'));
+
+               // Pass the product data and error message (if any) to the view
+    return view('foodfact.index', compact('product', 'error'));
+
+
         } else {
             return redirect()->route('scan.view')->withErrors(['barcode' => 'Product not found!']);
         }

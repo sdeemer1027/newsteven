@@ -14,22 +14,17 @@
 
 
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Scan Barcode</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/quagga/0.12.1/quagga.min.js"></script>
-</head>
 
 
 <h1>Scan Barcode</h1>
 
-
+readonly
 
 <form method="POST" action="{{ route('processBarcode') }}">
     @csrf
     <label for="barcode">Scanned Barcode:</label>
-    <input type="text" id="barcode" name="barcode" readonly>
+    <input type="text" id="barcode" name="barcode" >
     <button type="submit">Submit</button>
 </form>
 
@@ -48,7 +43,7 @@
                 }
             },
             decoder: {
-                readers: ["code_128_reader"] // Adjust this to match your barcode type
+                readers: ["code_128_reader", "ean_reader", "upc_reader", "qr_reader"] // Adjust this to match your barcode type
             }
         }, function (err) {
             if (err) {
@@ -64,6 +59,10 @@
             const barcode = data.codeResult.code;
             document.querySelector('#barcode').value = barcode;
         });
+
+ 
+
+
     } else {
         alert('Camera is not supported on this device or browser.');
     }
