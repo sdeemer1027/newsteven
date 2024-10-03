@@ -37,7 +37,7 @@
                 <h2>{{ $product['product_name'] }}</h2>
                 <p><strong>Brand:</strong> {{ $product['brands'] ?? ''}}</p>
                 <p><strong>Quantity:</strong> {{ $product['quantity'] ?? ''}}</p>
-                <p><strong>Ingredients:</strong> {{ $product['ingredients_text'] }}</p>
+                <p><strong>Ingredients:</strong> {{ $product['ingredients_text'] ?? ''}}</p>
                 <p><strong>Nutritional Info:</strong></p>
                 <ul>
                     <li>Calories: {{ $product['nutriments']['energy_value'] ?? 'N/A' }} kcal</li>
