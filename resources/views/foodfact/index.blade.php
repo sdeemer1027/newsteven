@@ -23,8 +23,6 @@
 
 <div class="container">
 
-
-
     <h1>Product Details</h1>
 
     @if(isset($error))
@@ -55,10 +53,14 @@
 
 
 
+<a href="{{route('foodfact.scan')}}"> Scan a Product</a><BR>
+
 
 </div>
 
 
+
+{{--$product--}}
 
 
 
