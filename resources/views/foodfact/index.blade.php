@@ -34,6 +34,7 @@
             <div class="card-body">
                 <h2>{{ $product['product_name'] ?? ''}}</h2>
                 <p><strong>Brand:</strong> {{ $product['brands'] ?? ''}}</p>
+                <p><strong>brand_owner:</strong> {{ $product['brand_owner'] ?? ''}}</p>
                 <p><strong>Quantity:</strong> {{ $product['quantity'] ?? ''}}</p>
                 <p><strong>Ingredients:</strong> {{ $product['ingredients_text'] ?? ''}}</p>
                 <p><strong>Nutritional Info:</strong></p>
@@ -43,6 +44,9 @@
                     <li>Carbohydrates: {{ $product['nutriments']['carbohydrates_value'] ?? 'N/A' }} g</li>
                     <li>Protein: {{ $product['nutriments']['proteins_value'] ?? 'N/A' }} g</li>
                 </ul>
+
+                <p><strong>allergens:</strong> {{ $product['allergens'] ?? ''}}</p>
+                 <p><strong>allergens_from_ingredients:</strong> {{ $product['allergens_from_ingredients'] ?? ''}}</p>
             </div>
         </div>
     @else
@@ -52,15 +56,15 @@
 
 
 
+<BR>
+<a href="{{route('foodfact.scan')}}" class="btn btn-primary btn-sm"> Scan a Product</a>
 
-<a href="{{route('foodfact.scan')}}"> Scan a Product</a><BR>
-
-
+<BR>
 </div>
+<BR><BR><BR>
+<HR>
 
-
-
-{{--$product--}}
+{{$product}}
 
 
 
