@@ -321,7 +321,7 @@ Definition: CMS platforms are used for creating and managing digital content, su
           <h2>Why Me</h2>
           <p>I will handle everything from designing layouts and setting up databases to managing Git repositories and finding affordable hosting solutions. My goal is to provide you with cost-effective options that meet your budget and execute them according to a well-defined plan.</p>
        
-
+<BR>
 
 
 <h2>To My Lovely Wife</h2>

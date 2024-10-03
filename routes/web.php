@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\FoodfactController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -32,6 +33,16 @@ Route::middleware('auth')->group(function () {
     Route::get('/profile', [ProfileController::class, 'edit'])->name('profile.edit');
     Route::patch('/profile', [ProfileController::class, 'update'])->name('profile.update');
     Route::delete('/profile', [ProfileController::class, 'destroy'])->name('profile.destroy');
+
+    Route::get('/foodfact',[FoodfactController::class, 'index'])->name('foodfact.index');
+
+// Route to show the barcode scanning view
+Route::get('/scan', [FoodfactController::class, 'showScanView'])->name('foodfact.scan');
+
+// Route to process the scanned barcode
+Route::post('/scan', [FoodfactController::class, 'processBarcode'])->name('processBarcode');
+
+
 });
 
 require __DIR__.'/auth.php';
