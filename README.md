@@ -1,4 +1,4 @@
-<p align="center"><img src="public/srdlogo.png" width="75"><span style="color:#e97855;">S</span>teven.<span style="color:#e97855;">News</span></p>
+<p align="center" style="font-size: 75px;"><img src="public/srdlogo.png" width="75"><span style="color:#e97855;font-size: 75px;">S</span>teven.<span style="color:#e97855;font-size: 75px;">News</span></p>
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
